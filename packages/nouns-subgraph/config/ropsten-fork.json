@@ -1,0 +1,15 @@
+{
+  "network": "ropsten",
+  "nounsToken": {
+    "address": "0x816bfA3BF57e3c8c40780cFA9939C4daf4c66DCd",
+    "startBlock": null
+  },
+  "nounsAuctionHouse": {
+    "address": "0x9A9537514f611527aB896C9Be72ce19029DBa307",
+    "startBlock": null
+  },
+  "nounsDAO": {
+    "address": "0xadE6491D4cacC6DAE43f4248382f9b7d77f9fe2d",
+    "startBlock": null
+  }
+}

@@ -1,5 +1,24 @@
 # nouns-monorepo
 
+## 情報収集
+
+ホームページ
+https://lilnouns.wtf/
+
+Etherescan
+https://etherscan.io/address/0x4b10701Bfd7BFEdc47d50562b76b436fbB5BdB3B#code
+
+Github
+https://github.com/nounsDAO/nouns-monorepo/tree/master/packages/nouns-contracts
+・コード自体はここに公開しているらしい
+・このプロジェクトは完全なフルオンチェーンなので、このプログラムが画像生成の全てである可能性が高い
+・このコードをフォークして開発を進める
+
+
+
+
+
+
 Nouns DAO is a generative avatar art collective run by a group of crypto misfits.
 
 ## Contributing
